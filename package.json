@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@permaweb/aoconnect": "^0.0.51",
+    "axios": "^1.6.8",
+    "cloudinary": "^2.1.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "newsapi": "^2.4.1",
+    "nodemon": "^3.1.0",
+    "openai": "^4.30.0"
+  },
+  "type": "module"
+}
