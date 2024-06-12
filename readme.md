@@ -1,4 +1,4 @@
-# API Documentation
+## API Documentation
 
 ## Base URL
 https://ao-server-production.up.railway.app
