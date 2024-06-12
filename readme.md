@@ -1,4 +1,4 @@
-## API Documentation
+# API Documentation
 
 ## Base URL
 https://ao-server-production.up.railway.app
@@ -12,10 +12,6 @@ https://ao-server-production.up.railway.app
 ### /display/:public_id
 - **Method**: GET
 - **Description**: Displays an image from Cloudinary
-
-### /join
-- **Method**: GET
-- **Description**: Joins a process
 
 ### /send-message
 - **Method**: POST
